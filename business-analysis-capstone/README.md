@@ -164,13 +164,7 @@ Validation checks ensure:
 
 ---
 
-## Author
-
-**Abinaya**  
-Data Analytics Intern — Capstone Project
-
----
-
 ## License
+
 
 This project is created for educational and portfolio purposes.
